@@ -2,6 +2,7 @@
   "name": "gleb-app",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://glarma89.github.io/gleb-app",
   "type": "module",
   "scripts": {
     "dev": "vite",
